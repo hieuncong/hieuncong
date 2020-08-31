@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![Alt Text](https://media.giphy.com/media/5h9jqglckLc1HQbPvT/giphy.gif)
 <!--
 **hieuncong/hieuncong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
