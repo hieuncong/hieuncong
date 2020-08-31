@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://github.com/hieuncong/hieuncong/blob/master/ahri.gif" width="40" height="40"/>
+<img src="https://github.com/hieuncong/hieuncong/blob/master/ahri.gif"/>
 <!--
 **hieuncong/hieuncong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
